@@ -1,8 +1,10 @@
-iHola, Mundo!
+﻿iHola, Mundo!
 
 master was here
 
 Здесь был Петя!
 Здесь был Вася!
+Здесь был Игорь
+Артём лох
 
 lucky was here
